@@ -16,17 +16,19 @@ Here’s the structure of the repository:
 ├── algorithms/          # Python scripts for all implemented algorithms
 │   ├── linear_regression.py
 │   ├── logistic_regression.py
-│   ├── knn.py
-│   ├── k_means.py
-│   └── decision_tree.py
+│   ├── polynomial_regression.py
+│   ├── multi_classification.py
+│   ├── NN_binary.py
+│   └── NN_class_labels.py
 ├── datasets/            # Datasets used for training and testing
-│   ├── dataset1.csv
-│   ├── dataset2.csv
-│   └── dataset3.csv
+│   ├── Test_Data_Predictions
+│   └── Given_datasets
 ├── notebooks/           # Jupyter notebooks for analysis and experiments
 │   ├── linear_regression.ipynb
 │   ├── logistic_regression.ipynb
-│   ├── knn_analysis.ipynb
+│   ├── multi_classification.ipynb
+│   ├── multi_classification.ipynb
+|   |──Polynomial Regression.ipynb
 │   └── k_means_visualization.ipynb
 ├── Final_Report.pdf     # Comprehensive report summarizing the project
 ├── ML_Proposal.pdf      # Initial proposal for the project
@@ -92,3 +94,6 @@ This repository contains implementations of:
 
   The final report summarizing the work is available as Final_Report.pdf.
   The initial project proposal can be found in ML_Proposal.pdf.
+
+## Creator
+        Sukrat Singh, 24JE0702 (Git Profile: Sukrat-Singh20)
