@@ -27,9 +27,9 @@ Here’s the structure of the repository:
 │   ├── linear_regression.ipynb
 │   ├── logistic_regression.ipynb
 │   ├── multi_classification.ipynb
-│   ├── multi_classification.ipynb
-|   |──Polynomial Regression.ipynb
-│   └── k_means_visualization.ipynb
+│   ├── Polynomial Regression.ipynb
+|   |── NN_binary_labels.ipynb
+│   └── NN_class_labels.ipynb
 ├── Final_Report.pdf     # Comprehensive report summarizing the project
 ├── ML_Proposal.pdf      # Initial proposal for the project
 ├── requirements.txt     # List of required Python libraries
